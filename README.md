@@ -1,4 +1,4 @@
-# CERRE-CCL2025
+# CERRE-2025CCL
 CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 
