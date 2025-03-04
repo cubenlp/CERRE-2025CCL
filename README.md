@@ -208,15 +208,15 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
         {
           "rhetorical": "比喻",
           "form": "明喻",
-          "conjunction": "像",
-          "conjunctionBeginIdx": 16,
-          "conjunctionEndIdx": 16,
-          "tenor": "稻谷",
-          "tenorBeginIdx": 21,
-          "tenorEndIdx": 22,
-          "vehicle": "狗尾巴"
-          "vehicleBeginIdx": 17,
-          "vehicleEndIdx": 19
+          "conjunction": ["像"],
+          "conjunctionBeginIdx": [16],
+          "conjunctionEndIdx": [16],
+          "tenor": ["稻谷"],
+          "tenorBeginIdx": [21],
+          "tenorEndIdx": [22],
+          "vehicle": ["狗尾巴"]
+          "vehicleBeginIdx": [17],
+          "vehicleEndIdx": [19]
         }
       ]
  
