@@ -5,6 +5,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 ## 更新
 
 [2024/12/30] 评测任务基本信息发布。
+
 [2025/03/04] 更新评测任务信息、[报名链接]()；我们将在2025年3月底前发布训练集和baseline。
 
 ## 声明
