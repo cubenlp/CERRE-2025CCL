@@ -6,7 +6,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 [2024/12/30] 评测任务基本信息发布。
 
-[2025/03/04] 更新评测任务信息、[报名链接](https://wj.qq.com/s2/18493452/6a88/)；我们将在2025年3月底前发布训练集和baseline。
+[2025/03/04] 更新评测任务信息、[报名链接](https://wj.qq.com/s2/18493452/6a88/)；我们将在2025年3月底前发布训练集。
 
 ## 声明
 
@@ -102,8 +102,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
-| 训练集（Train Set） |              约120个              |
-| 验证集（Dev Set） |              约30个              |
+| 训练集（Train Set） |              约150个              |
 | 盲测集（Test Set）  | 约2000个 |
 
 ### 评价标准
@@ -162,8 +161,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
-| 训练集（Train Set） |              约120个              |
-| 验证集（Dev Set） |              约30个              |
+| 训练集（Train Set） |              约150个              |
 | 盲测集（Test Set）  | 约2000个 |
 
 ### 评价标准
@@ -231,8 +229,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
-| 训练集（Train Set） |              约120个              |
-| 验证集（Dev Set） |              约30个              |
+| 训练集（Train Set） |              约150个              |
 | 盲测集（Test Set）  | 约2000个 |
 
 ### 评价标准
