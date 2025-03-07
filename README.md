@@ -103,7 +103,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
 | 训练集（Train Set） |              约150个              |
-| 盲测集（Test Set）  | 约2000个 |
+| 盲测集（Test Set）  | 约20000个 |
 
 ### 评价标准
 
@@ -162,7 +162,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
 | 训练集（Train Set） |              约150个              |
-| 盲测集（Test Set）  | 约2000个 |
+| 盲测集（Test Set）  | 约20000个 |
 
 ### 评价标准
 
@@ -230,6 +230,6 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 | 数据集（Data Set）  |        文档数（documents）        |
 | :-----------------: | :-------------------------------: |
 | 训练集（Train Set） |              约150个              |
-| 盲测集（Test Set）  | 约2000个 |
+| 盲测集（Test Set）  | 约20000个 |
 
 ### 评价标准
