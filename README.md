@@ -188,6 +188,7 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 ![](assets/table_3_1.jpg)
 ![](assets/table_3_2.jpg)
+![](assets/table_3_3.jpg)
 
 ### 数据样例
 
