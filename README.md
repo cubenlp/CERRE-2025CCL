@@ -8,6 +8,8 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 [2025/03/04] 更新评测任务信息、[报名链接](https://wj.qq.com/s2/18493452/6a88/)；我们将在2025年3月底前发布训练集。
 
+[2025/03/30] 发布训练集、更新部分评测任务信息。
+
 ## 声明
 
   本次比赛获得的数据只限于本次比赛，禁止商用，有科研需求请联系组织者。
@@ -186,7 +188,6 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
 
 ![](assets/table_3_1.jpg)
 ![](assets/table_3_2.jpg)
-![](assets/table_3_3.jpg)
 
 ### 数据样例
 
