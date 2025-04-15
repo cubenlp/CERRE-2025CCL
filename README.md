@@ -114,11 +114,11 @@ CCL2025 Chinese Essay Rhetoric Recognition Evaluation
   总分由粗粒度、形式细粒度、修辞句组定位三个部分构成，具体计算方式如下：
 
 $$
-F_1=0.3\times F_1^{\text{rhetoric}}+0.7\times F_1^{\text{form}}\\
+F_1=0.3\times F_1^{\text{rhetoric}}+0.7\times F_1^{\text{form}} \\
 S= 0.3 \times \text{IoU} + 0.7 \times F_1
 $$
 
-  其中$F_1^{\text{rhetoric}}$和$F_1^{\text{form}}$分别表示粗粒度和形式细粒度修辞类型的$F_1$值，$\text{IoU}$表示修辞句组定位的$\text{IoU}$值。
+  其中$$F_1^{\text{rhetoric}}$$和$$F_1^{\text{form}}$$分别表示粗粒度和形式细粒度修辞类型的$$F_1$$值，$$\text{IoU}$$表示修辞句组定位的$$\text{IoU}$$值。
 
 ## 赛道2：中小学作文修辞内容类型识别
 
@@ -182,11 +182,11 @@ $$
   总分由粗粒度、内容细粒度、修辞句组定位三个部分构成，具体计算方式如下：
 
 $$
-F_1=0.3\times F_1^{\text{rhetoric}}+0.7\times F_1^{\text{content}}\\
+F_1=0.3\times F_1^{\text{rhetoric}}+0.7\times F_1^{\text{content}} \\
 S= 0.3 \times \text{IoU} + 0.7 \times F_1
 $$
 
-  其中$F_1^{\text{rhetoric}}$和$F_1^{\text{form}}$分别表示粗粒度和内容细粒度修辞类型的$F_1$值，$\text{IoU}$表示修辞句组定位的$\text{IoU}$值。
+  其中$$F_1^{\text{rhetoric}}$$和$$F_1^{\text{form}}$$分别表示粗粒度和内容细粒度修辞类型的$$F_1$$值，$$\text{IoU}$$表示修辞句组定位的$$\text{IoU}$$值。
 
 ## 赛道3：中小学作文修辞成分抽取
 
@@ -259,8 +259,8 @@ $$
   总分由连接词、描写对象、描写内容和修辞句组定位四个部分构成，具体计算方式如下：
 
 $$
-F_1=\frac{1}{3}\times F_1^{\text{conjunction}}+\frac{1}{3}\times F_1^{\text{tenor}}+\frac{1}{3}\times F_1^{\text{vehicle}}\\
+F_1=\frac{1}{3}\times F_1^{\text{conjunction}}+\frac{1}{3}\times F_1^{\text{tenor}}+\frac{1}{3}\times F_1^{\text{vehicle}} \\
 S= 0.3 \times \text{IoU} + 0.7 \times F_1
 $$
 
-  其中$F_1^{\text{conjunction}}$、$F_1^{\text{tenor}}$和$F_1^{\text{vehicle}}$分别表示连接词、描写对象和描写内容的$F_1$值，$\text{IoU}$表示修辞句组定位的$\text{IoU}$值。
+  其中$$F_1^{\text{conjunction}}$$、$$F_1^{\text{tenor}}$$和$$F_1^{\text{vehicle}}$$分别表示连接词、描写对象和描写内容的$$F_1$$值，$$\text{IoU}$$表示修辞句组定位的$$\text{IoU}$$值。
